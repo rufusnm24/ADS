@@ -49,3 +49,28 @@ In our research project "Temporal Analysis of Mass Shootings in the United State
 - **Description**: The Washington Post provides a relational database that allows refined searches based on shooting details.
 - **Content**: It includes specific, detailed information on shootings, enhancing our ability to conduct detailed analyses of individual events.
 - **Use in Study**: This database is used for obtaining specific information on shootings, enhancing our ability to conduct detailed analyses of individual events.
+
+## Preliminary Analysis of Datasets
+
+### Category: Dataset Integration and Selection
+
+Through an extensive review and preliminary analysis of the available datasets, our team has gained a comprehensive understanding of how to best integrate these diverse data sources for our study on mass shootings in the United States.
+
+#### Selection of Baseline Dataset
+
+After careful consideration, we have concluded that the "K-12 School Shooting Database" will serve as our baseline dataset. The decision to prioritize this dataset is based on several key factors:
+
+- **Comprehensive Coverage**: This database offers a thorough record of school shooting incidents, dating back to 1970, providing a long-term view of this specific aspect of gun violence.
+- **Real-Time Data**: The up-to-date nature of this dataset ensures that our analysis includes the most recent and relevant incidents, which is crucial for understanding current trends and patterns.
+- **Extensive Data**: The "K-12 School Shooting Database" is notably extensive, encompassing a wide range of incidents, which makes it an invaluable resource for our study.
+
+#### Integration Approach
+
+In integrating the "K-12 School Shooting Database" with other datasets, our approach will be meticulous and structured:
+
+- **Ensuring No Duplicates**: We will implement stringent checks to ensure that there are no duplicate records across datasets. This is vital for maintaining the integrity and accuracy of our analysis.
+- **Comprehensive Coverage**: By integrating other datasets with our baseline, we aim to cover all aspects and incidents of mass shootings, not just those occurring in schools. This broadens the scope of our study and allows for a more holistic understanding of the issue.
+- **Data Consistency**: We will ensure consistency in data formats and definitions across all datasets to facilitate seamless integration and analysis.
+
+Through this approach, we aim to build a robust, comprehensive dataset that captures the multifaceted nature of mass shootings in the United States. Our goal is to leverage this integrated data to develop a predictive model that can offer insights into the frequency, trends, and drivers of these tragic events, with the ultimate aim of informing effective intervention strategies.
+
