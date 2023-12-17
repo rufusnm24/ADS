@@ -1,5 +1,4 @@
-# ADS
-## Temporal Analysis of Mass Shootings in USA
+# Temporal Analysis of Mass Shootings in USA
 
 # Introduction
 
